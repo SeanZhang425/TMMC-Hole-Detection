@@ -1,6 +1,6 @@
 ## About the Project
 
-For my team's submission for the TMMC Innovation Challenge, we developed a program that utilizes computer vision and supervised machine learning to identify and precisely locate any holes in automotive components.
+For my team's submission for the TMMC Innovation Challenge, we developed a program that utilizes computer vision and machine learning to identify and precisely locate any holes in automotive components. Over 300 images were collected, processed, and labeled manually to train a convolutional neural network model.
 
 ### Built With
 
